@@ -1,10 +1,88 @@
-/home/dolcea/workspace/roms/gba-roms/gb/Legend of Zelda, The - Oracle of Ages (U) [C][!].zip
+/home/dolcea/workspace/roms/gba-roms/Legend of Zelda, The - A Link to the Past & Four Swords (Europe) (En,Fr,De,Es,It).zip
 
 /usr/lib/x86_64-linux-gnu/libretro/mgba_libretro.so
 mGBA
 
 
-/home/dolcea/workspace/roms/gba-roms/Legend of Zelda, The - A Link to the Past & Four Swords (Europe) (En,Fr,De,Es,It).zip
+/home/dolcea/workspace/roms/snes-roms/Illusion of Gaia.7z
+
+/usr/lib/x86_64-linux-gnu/libretro/bsnes_balanced_libretro.so
+bsnes
+
+
+/home/dolcea/workspace/roms/snes-roms/Legend of The Mystical Ninja, The.7z
+
+/usr/lib/x86_64-linux-gnu/libretro/bsnes_balanced_libretro.so
+bsnes
+
+
+/home/dolcea/workspace/roms/gba-roms/Golden Sun (USA, Europe).zip
+
+/usr/lib/x86_64-linux-gnu/libretro/mgba_libretro.so
+mGBA
+
+
+/home/dolcea/workspace/roms/gba-roms/Kingdom Hearts - Chain of Memories (USA).zip
+
+/usr/lib/x86_64-linux-gnu/libretro/mgba_libretro.so
+mGBA
+
+
+/home/dolcea/workspace/roms/psx-roms/Resident Evil 2 (Disc 1)/Resident Evil 2 (Disc 1).cue
+
+/usr/lib/x86_64-linux-gnu/libretro/mednafen_psx_hw_libretro.so
+Mednafen PSX
+
+
+/home/dolcea/workspace/roms/doom/DOOM Ultimate/doom.wad
+
+/usr/lib/x86_64-linux-gnu/libretro/prboom_libretro.so
+PrBoom
+
+
+/home/dolcea/workspace/roms/doom/DOOM 2/doom2.wad
+
+/usr/lib/x86_64-linux-gnu/libretro/prboom_libretro.so
+PrBoom
+
+
+/home/dolcea/workspace/roms/snes-roms/Teenage Mutant Ninja Turtles IV - Turtles in Time.7z
+
+/usr/lib/x86_64-linux-gnu/libretro/bsnes_balanced_libretro.so
+bsnes
+
+
+/home/dolcea/workspace/roms/nes-roms/Kings of the Beach.7z
+
+/usr/lib/x86_64-linux-gnu/libretro/nestopia_libretro.so
+Nestopia
+
+
+/home/dolcea/workspace/roms/nes-roms/Maniac Mansion.7z
+
+/usr/lib/x86_64-linux-gnu/libretro/nestopia_libretro.so
+Nestopia
+
+
+/home/dolcea/workspace/roms/n64-roms/Turok - Dinosaur Hunter.7z
+
+/usr/lib/x86_64-linux-gnu/libretro/mupen64plus_libretro.so
+Mupen64Plus
+
+
+/home/dolcea/workspace/roms/n64-roms/Super Mario 64.7z
+
+/usr/lib/x86_64-linux-gnu/libretro/mupen64plus_libretro.so
+Mupen64Plus
+
+
+/home/dolcea/workspace/roms/n64-roms/Banjo-Kazooie.7z
+
+/usr/lib/x86_64-linux-gnu/libretro/mupen64plus_libretro.so
+Mupen64Plus
+
+
+/home/dolcea/workspace/roms/gba-roms/gb/Legend of Zelda, The - Oracle of Ages (U) [C][!].zip
 
 /usr/lib/x86_64-linux-gnu/libretro/mgba_libretro.so
 mGBA
